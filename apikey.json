@@ -1,5 +1,5 @@
 {
-    "accessKey": "CCA0A6DE7662E904AB09B21F9E71BC9829854E22",
-    "secretKey": "FE186AD34A5B9A65742D5C3754250A4C75830BE7",
-    "applicationId": "676e0d9cec3975ae68f333f9"
+  "allowed_numbers": [
+    "6282179633113"
+  ]
 }
